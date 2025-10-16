@@ -1,0 +1,9 @@
+{
+  "name": "golang-js",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
+
